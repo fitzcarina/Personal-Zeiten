@@ -1,0 +1,18 @@
+﻿<Window x:Class="Personal_Zeiten.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Personal_Zeiten"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <ListBox x:Name="cboDaten"  SelectionChanged="listBox_SelectionChanged" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="325,102,325,217"/>
+        <TextBox x:Name="txtbox" Margin="13,290,499,78"></TextBox>
+        <ListBox x:Name="cboZeiten" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="321,291,0,20"/>
+        <Label Content="Bitte wählen Sie einen Mitarbeiter:" HorizontalAlignment="Left" Margin="124,22,0,0" VerticalAlignment="Top" Width="571" Background="White" FontSize="36"/>
+        <Label Content="Gewählter Mitarbeiter:" Margin="13,256,505,149"/>
+        <Label Content="Gearbeitete Zeiten:" Margin="325,256,193,149"/>
+    </Grid>
+</Window>

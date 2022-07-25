@@ -1,0 +1,32 @@
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.exe.config
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.exe
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.pdb
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.SuggestedBindingRedirects.cache
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\App.g.cs
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\MainWindow.baml
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.g.resources
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal_Zeiten.Properties.Resources.resources
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.GenerateResource.cache
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.exe
+C:\Users\c.fitz\source\repos\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.pdb
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.exe.config
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.exe
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\bin\Debug\Personal Zeiten.pdb
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.SuggestedBindingRedirects.cache
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\App.g.cs
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\MainWindow.baml
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.g.resources
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal_Zeiten.Properties.Resources.resources
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.GenerateResource.cache
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.exe
+C:\Users\c.fitz\source\repos\Personal bekommen\Personal Zeiten\Personal Zeiten\obj\Debug\Personal Zeiten.pdb
